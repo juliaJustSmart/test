@@ -1,2 +1,1 @@
-# test
-for education
+репозиторій для уроку
